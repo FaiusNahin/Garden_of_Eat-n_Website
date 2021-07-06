@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.banner-container{
+    display: flex;
+    margin: 100px 100px;
+}
+.banner-width{
+    width:50%;
+    padding-left: 6%;  
+}
+.banner-width img{
+    width:100%;
+    background-image: url(images/shapes/Group\ 8449.png);
+}
+.header-class{
+    font-size: 75px;
+    width: 90%;
+    padding-top: 70px;
+    color: rgb(88, 88, 88);
+    font-weight: 900;
+}
+p{
+   width: 80%;
+   font-size: 20px;
+   letter-spacing: 1px;
+   color: rgb(87, 87, 87);
+   margin-bottom: 70px;  
+}
+#gradient-letter{
+    color: ;
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(to right, rgb(253, 207, 0), rgba(255, 0, 0, 0.637));
+    padding: 23px 55px;
+    border-radius: 80px;
+    color: white;
+    font-weight: 200;
+}
