@@ -80,8 +80,9 @@ p{
 .recepie-header h2{
     margin: 0;
     padding-top: 5%;
-    font-size: 50px;
-    font-weight: bold;
+    font-size: 55px;
+    font-weight: 700;
+    color: rgba(61, 61, 61, 0.87);
   
 }
 .recepie-header p{
@@ -89,6 +90,7 @@ p{
     font-weight: 200;
     width: 50%;
     margin-left: 25%;
+    color: rgba(63, 61, 61, 0.904);
   
 }
 .recepie-size{
@@ -102,13 +104,52 @@ p{
     width: 30%;
     margin-right: 4%;
     padding: 25px 25px;
-    box-shadow: 10px 10px 40px  rgba(92, 88, 88, 0.575);
+    box-shadow: 10px 10px 30px  rgba(92, 88, 88, 0.329);
     border-radius: 40px;
 }
 .recepie-content img{
     width: 100%;
 }
+.follower-container{
+    margin: 10%;
+}
+.followers-box{
+    display: flex;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-radius: 40px;
+    box-shadow: 10px 10px 20px  rgba(92, 88, 88, 0.342);
+}
+.followers-count{
+    margin: 0% 8%;
+}
+.followers-count h2{
+    font-size: 60px;
+    font-weight: bold;
+}
+.followers-count p{
+    display: inline;
+}
+.footer-box{
+    text-align: center;
+    padding-top: 20px;
+    background-color: rgb(19, 16, 16);
+    padding-bottom: 50px;
+}
+.footer-box h2{
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.footer-box p{
+    color: rgba(241, 239, 239, 0.651);
+    margin-left: 10%;
 
-
-
-
+}
+.food{
+    color: sandybrown;
+}
+.network{
+    color: rgb(138, 132, 132);
+}
