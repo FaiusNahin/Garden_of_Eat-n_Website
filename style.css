@@ -52,22 +52,63 @@ p{
 .about-image img{
     width:55%;
     margin-left: 22%;
-    margin-top: 5%;
+    margin-top: 10%;
     margin-bottom: 0;
 }
 .about-image h2{
-    margin-top: 12%;
-    margin-bottom:6%;
-    font-size: 50px;
+    margin-top: 15%;
+    margin-bottom:8%;
+    font-size: 55px;
     font-weight: bold;
 }
 .about-image p{
     margin-right: 15%;
     margin-bottom: 15%;
-    font-size: 20px;
+    font-size: 23px;
+    color: rgba(63, 61, 61, 0.63);
 }
 .about-image a{
     background-image: linear-gradient(to right, rgb(202, 196, 109), rgb(253, 110, 94));
     box-shadow: 10px 10px 60px rgba(177, 147, 99, 0.932);
 }
+.recepie-container{
+    margin: 0;
+}
+.recepie-header{
+    text-align: center;
+}
+.recepie-header h2{
+    margin: 0;
+    padding-top: 5%;
+    font-size: 50px;
+    font-weight: bold;
+  
+}
+.recepie-header p{
+    font-size: 25px;
+    font-weight: 200;
+    width: 50%;
+    margin-left: 25%;
+  
+}
+.recepie-size{
+    display: flex;
+    margin-bottom: 80px;
+    margin-left: 7%;
+    margin-right: 3%;   
+   
+}
+.recepie-content{
+    width: 30%;
+    margin-right: 4%;
+    padding: 25px 25px;
+    box-shadow: 10px 10px 40px  rgba(92, 88, 88, 0.575);
+    border-radius: 40px;
+}
+.recepie-content img{
+    width: 100%;
+}
+
+
+
 
