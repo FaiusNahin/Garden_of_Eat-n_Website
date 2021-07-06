@@ -4,11 +4,11 @@ body{
 }
 .banner-container{
     display: flex;
-    margin: 100px 100px;
+    margin: 100px 150px;
 }
 .banner-width{
     width:50%;
-    padding-left: 6%;  
+    padding-left: 4%;  
 }
 .banner-width img{
     width:100%;
@@ -19,6 +19,7 @@ body{
     padding-top: 70px;
     color: rgb(88, 88, 88);
     font-weight: 900;
+    margin: 0;
 }
 p{
    width: 80%;
@@ -28,7 +29,7 @@ p{
    margin-bottom: 70px;  
 }
 #gradient-letter{
-    color: ;
+    color:rgb(252, 105, 52);
 }
 .order-button{
     text-decoration: none;
@@ -37,4 +38,5 @@ p{
     border-radius: 80px;
     color: white;
     font-weight: 200;
+    box-shadow: 10px 10px 60px rgba(238, 112, 98, 0.897);
 }
