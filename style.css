@@ -38,5 +38,36 @@ p{
     border-radius: 80px;
     color: white;
     font-weight: 200;
-    box-shadow: 10px 10px 60px rgba(255, 129, 79, 0.945);
+    box-shadow: 10px 10px 60px rgba(240, 112, 62, 0.836);
 }
+.about-section{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    margin: 0;
+}
+.about-image{
+    width:50%;
+    margin-left: 5%;  
+}
+.about-image img{
+    width:55%;
+    margin-left: 22%;
+    margin-top: 5%;
+    margin-bottom: 0;
+}
+.about-image h2{
+    margin-top: 12%;
+    margin-bottom:6%;
+    font-size: 50px;
+    font-weight: bold;
+}
+.about-image p{
+    margin-right: 15%;
+    margin-bottom: 15%;
+    font-size: 20px;
+}
+.about-image a{
+    background-image: linear-gradient(to right, rgb(202, 196, 109), rgb(253, 110, 94));
+    box-shadow: 10px 10px 60px rgba(177, 147, 99, 0.932);
+}
+
