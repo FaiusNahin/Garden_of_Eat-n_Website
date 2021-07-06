@@ -1,0 +1,43 @@
+body{
+	background-image:url(images/spices-black-background-space-text.jpg);
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+.form{
+	width:300px;
+	background:rgba(75, 149, 151, 0.493);
+	margin:150px auto;
+	padding:40px 20px;
+	border-radius:5px;
+}
+.form input{
+	display:block;
+	width:100%;
+	font-size:18px;
+	padding:5px;
+	border:1px solid red;
+	background:transparent;
+	color:white;
+	border-radius:5px;
+}
+.form label{
+	color:#fff;
+	cursor:pointer;
+	padding:5px;
+	display:block;
+	font-size:20px;
+	font-family:tahoma;
+}
+.form input[type=submit]{
+	width:200px;
+	margin-top:20px;
+	cursor:pointer;
+}
+.form p{
+	color:white;
+	font-size:17px;
+}
+.form p a{
+	color:red;
+	
+}

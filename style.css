@@ -2,6 +2,19 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+header{
+    background-color: rgb(110, 236, 209);
+    display: inline;
+}
+header a{
+    text-decoration: none;
+    background-image: linear-gradient(to right, rgb(253, 207, 0), rgba(255, 0, 0, 0.637));
+    padding: 13px 30px;
+    border-radius: 80px;
+    color: white;
+    font-weight: 200;
+    box-shadow: 10px 10px 60px rgba(240, 112, 62, 0.836);
+}
 .banner-container{
     display: flex;
     margin: 100px 150px;
